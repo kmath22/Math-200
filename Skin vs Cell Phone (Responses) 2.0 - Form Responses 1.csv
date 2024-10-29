@@ -1,0 +1,45 @@
+Timestamp,CFU_TYPE,CFUs,skin_cfu,phone_cfu,sex,shower,cleaning,phone_type
+10/28/2024 11:24:25,skin,9,9,2,Female,No,Almost Never,Apple
+10/28/2024 11:26:19,skin,11,11,12,Female,Yes,Monthly,Apple
+10/28/2024 11:26:50,skin,15,15,45,Female,No,Weekly,Apple
+10/28/2024 11:27:11,skin,24,24,2,Female,No,Monthly,Apple
+10/28/2024 11:27:22,skin,250,250,10,Female,No,Almost Never,Apple
+10/28/2024 11:27:41,skin,1,1,3,Male,Yes,Weekly,Apple
+10/28/2024 11:27:44,skin,38,38,24,Female,Yes,Almost Never,Apple
+10/28/2024 11:27:51,skin,3,3,1,Female,No,Almost Never,Apple
+10/28/2024 11:28:15,skin,155,155,30,Male,Yes,Almost Never,Apple
+10/28/2024 11:28:36,skin,500,500,8,Female,Yes,Monthly,Apple
+10/28/2024 11:28:38,skin,22,22,28,Female,No,Almost Never,Apple
+10/28/2024 11:28:51,skin,70,70,35,Male,Yes,Almost Never,Apple
+10/28/2024 11:28:53,skin,160,160,1,Female,Yes,Weekly,Apple
+10/28/2024 11:28:53,skin,100,100,9,Female,Yes,Monthly,Apple
+10/28/2024 11:29:00,skin,30,30,2,Female,No,Monthly,Apple
+10/28/2024 11:29:03,skin,34,34,79,Female,No,Monthly,Apple
+10/28/2024 11:30:16,skin,100,100,1,Female,No,Almost Never,Apple
+10/28/2024 11:31:11,skin,66,66,36,Female,Yes,Daily,Apple
+10/28/2024 11:31:17,skin,4,4,10,Female,Yes,Almost Never,Apple
+10/28/2024 11:35:32,skin,15,15,3,Male,No,Weekly,Apple
+10/28/2024 11:36:21,skin,53,53,27,Male,Yes,Almost Never,Apple
+10/28/2024 12:10:20,skin,934,934,648,Male,No,Weekly,Apple
+,phone,2,9,2,Female,No,,
+,phone,12,11,12,Female,Yes,,
+,phone,45,15,45,Female,No,,
+,phone,2,24,2,Female,No,,
+,phone,10,250,10,Female,No,,
+,phone,3,1,3,Male,Yes,,
+,phone,24,38,24,Female,Yes,,
+,phone,1,3,1,Female,No,,
+,phone,30,155,30,Male,Yes,,
+,phone,8,500,8,Female,Yes,,
+,phone,28,22,28,Female,No,,
+,phone,35,70,35,Male,Yes,,
+,phone,1,160,1,Female,Yes,,
+,phone,9,100,9,Female,Yes,,
+,phone,2,30,2,Female,No,,
+,phone,79,34,79,Female,No,,
+,phone,1,100,1,Female,No,,
+,phone,36,66,36,Female,Yes,,
+,phone,10,4,10,Female,Yes,,
+,phone,3,15,3,Male,No,,
+,phone,27,53,27,Male,Yes,,
+,phone,648,934,648,Male,No,,
